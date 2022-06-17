@@ -1,0 +1,25 @@
+{
+  "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\cmd.exe",
+  "C_Cpp.default.intelliSenseMode": "gcc-x64",
+  "C_Cpp.default.compilerPath": "E:\\Vscode\\mingw64\\bin\\g++.exe",
+  "C_Cpp.default.cppStandard": "c++17",
+  "debug.onTaskErrors": "abort",
+  "files.associations": {
+	"iostream": "cpp",
+	"cstdlib": "cpp",
+	"algorithm": "cpp",
+	"complex": "cpp",
+	"ostream": "cpp"
+},
+  "bracket-pair-colorizer-2.colors": [
+    "Gold",
+    "Orchid",
+    "LightSkyBlue"
+],
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "python.pythonpath":"E:\\Anaconda\\python.exe",
+  "python.linting.pylintpath":"pylint",
+}
